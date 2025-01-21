@@ -1,0 +1,2 @@
+- | Choose a model
+mlx-community/Llama-3.3-70B-Instruct-4bit               | 🦙 Llama3.3 70B Q4 (large)
