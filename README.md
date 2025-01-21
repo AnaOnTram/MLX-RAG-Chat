@@ -1,7 +1,7 @@
 # MLX-RAG-Chat Project
 
 This project is a re-implementation and enhancement of the `da-z/mlx-ui` project, adding new features and capabilities while maintaining the core functionality.
-
+![Client Interface](Interface.png)
 ## New Features ✌️
 
 - **RAG (Retrieval-Augmented Generation)**: Enhanced question-answering capabilities using document context
